@@ -12,3 +12,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paj-odoo&hide_border=true)](https://git.io/streak-stats)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=paj-odoo&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paj-odoo&layout=compact)
